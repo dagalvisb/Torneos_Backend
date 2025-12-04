@@ -3,7 +3,7 @@
 puedes clonar el repositorio usando los comandos en el bash
 
 ```bash
-git clone https://github.com/dagalvisb/Proyecto_Torneos.git
+git clone https://github.com/dagalvisb/Torneos_Backend.git
 ```
 
 aqui descargaras el Frontend y el backend en 2 carpetas diferentes especificadas cada una con el respectivo nombre.
