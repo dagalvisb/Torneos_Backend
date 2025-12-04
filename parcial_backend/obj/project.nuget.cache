@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7qcGNWeOFg=",
+  "dgSpecHash": "1lEfUE+cL9A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\parcial_backend.csproj",
+  "projectFilePath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\da-al\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
