@@ -604,6 +604,44 @@
         }
       }
     },
+    "/api/Posicion/tablaPosiciones": {
+      "get": {
+        "tags": [
+          "Posicion"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TablaPosicion"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TablaPosicion"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TablaPosicion"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -710,6 +748,52 @@
         },
         "additionalProperties": false
       },
+      "TablaPosicion": {
+        "type": "object",
+        "properties": {
+          "equipoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "equipoNombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "pj": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pg": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pe": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pp": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "gf": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "gc": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dg": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "puntos": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "Teams": {
         "required": [
           "ciudad",
@@ -781,6 +865,9 @@
     },
     {
       "name": "Partido"
+    },
+    {
+      "name": "Posicion"
     },
     {
       "name": "WeatherForecast"

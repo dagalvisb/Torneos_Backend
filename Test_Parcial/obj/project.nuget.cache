@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aMIFygriYEc=",
+  "dgSpecHash": "m5JwqRJ9Qbw=",
   "success": true,
   "projectFilePath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj",
   "expectedPackageFiles": [
@@ -151,10 +151,7 @@
     "C:\\Users\\da-al\\.nuget\\packages\\xunit.core\\2.5.3\\xunit.core.2.5.3.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\xunit.extensibility.core\\2.5.3\\xunit.extensibility.core.2.5.3.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
-    "C:\\Users\\da-al\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.5\\xunit.runner.visualstudio.3.1.5.nupkg.sha512",
-    "C:\\Users\\da-al\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\da-al\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\da-al\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+    "C:\\Users\\da-al\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.5\\xunit.runner.visualstudio.3.1.5.nupkg.sha512"
   ],
   "logs": []
 }
