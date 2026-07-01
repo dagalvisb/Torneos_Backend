@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj": {}
+    "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj": {
+    "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj",
+        "projectUniqueName": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj",
         "projectName": "parcial_backend",
-        "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj",
+        "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj",
         "packagesPath": "C:\\Users\\da-al\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\obj\\",
+        "outputPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -45,10 +46,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "FluentAssertions": {
@@ -101,6 +103,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -109,18 +129,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj": {
+    "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj",
+        "projectUniqueName": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj",
         "projectName": "Test_Parcial",
-        "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj",
+        "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\Test_Parcial.csproj",
         "packagesPath": "C:\\Users\\da-al\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\obj\\",
+        "outputPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\Test_Parcial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,10 +160,11 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj": {
-                "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj"
+              "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj": {
+                "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\universidad\\desarrollo web 2\\Proyecto_Torneos\\backend\\parcial_backend\\parcial_backend.csproj"
               }
             }
           }
@@ -158,10 +179,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "FluentAssertions": {
@@ -206,12 +228,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
